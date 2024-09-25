@@ -146,6 +146,10 @@ h3 {
   text-decoration: none;
 }
 
+.skill-item {
+  margin: 0 48px;
+}
+
 #contact .btn {
   height: 54px;
   background: #fff;
